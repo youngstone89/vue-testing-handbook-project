@@ -10,7 +10,7 @@
 
         data() {
             return {
-                greeting: "Vue without TDD"
+                greeting: "Vue and TDD"
             }
         }
     }
